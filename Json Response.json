@@ -1,0 +1,373 @@
+{
+  "claims": {
+    "Applicant Info": {
+      "Applicant": null,
+      "Location address": null,
+      "Email": null,
+      "Web address": null,
+      "Risk Management Contact": null,
+      "RM Email": null,
+      "Years in business": null
+    },
+    "Business Details": {
+      "Building Type": {
+        "Commercial": false,
+        "Church": false,
+        "School": false,
+        "Private Home (NOT Eligible)": false,
+        "Other (describe)": null
+      },
+      "Hours of operation": null,
+      "Is the child care center licensed?": null,
+      "If licensing is NOT state required, why is the center exempt": null,
+      "Has a license to operate ever been denied, suspended or revoked?": null,
+      "Is the Applicant’s organization more than 25% owned by a private equity fund structure?": null,
+      "Name of private equity firm": null,
+      "Corporal Punishment Policy": {
+        "Allowed": false,
+        "Prohibited": false
+      },
+      "Have there ever been any claims for corporal punishment?": null,
+      "Does the Applicant provide sick child or drop in services?": null,
+      "Children requiring special care and treatment": {
+        "Count": null,
+        "Explanation": null
+      },
+      "Other operations besides child care?": null,
+      "Other operations explanation": null
+    },
+    "Building Safety": {
+      "Does the child care center exit directly to the outside?": null,
+      "To ground level?": null,
+      "Do the bathroom doors lock?": null,
+      "Can they be unlocked from the outside?": null,
+      "Does the child care center have smoke detectors?": null,
+      "Smoke detector type": {
+        "Battery operated": false,
+        "Hard-wired to the building": false
+      },
+      "Are doors equipped with pinch guards to prevent fingers from getting caught?": null,
+      "Has a lead abatement been performed since 1978?": null,
+      "Asbestos materials status": {
+        "Not present": false,
+        "Removed": false,
+        "Protected to prevent flaking": false
+      },
+      "Winter Weather Freeze Protection": {
+        "Can all areas with fire sprinkler piping and/or domestic water lines be maintained at 45° F or higher?": null,
+        "Freeze protection measures in place (if not)": {
+          "Temperature monitoring and remote heating control system (Wi-Fi temperature controls)": false,
+          "PHLYSense": false,
+          "Other water detection/notification/alarm system": false,
+          "Backup electrical generator, ensuring building heat at all times": false,
+          "Insulation around water pipes in cold areas": false,
+          "Heat tracing for water pipes in cold areas": false,
+          "Antifreeze fire sprinkler system in cold areas": false,
+          "Space heaters or heated forced air in attics, crawl spaces, stairwells with fire sprinklers": false,
+          "Other": null
+        }
+      },
+      "Fire Protection and Testing": {
+        "Is the building provided with an Automatic Fire Sprinkler System (AS)?": null,
+        "Sprinkler system type": {
+          "Wet-Pipe": false,
+          "Dry-Pipe": false,
+          "Both": false
+        },
+        "Percentage of building sprinklered": null,
+        "System tested & inspected by qualified sprinkler contractor within past 12 months & includes formal winterization review?": null,
+        "Alarms tied to a 24 hour UL listed monitoring company?": null
+      },
+      "Emergency Water Response (domestic and AS water lines)": {
+        "Water shutoff valves marked and readily accessible?": null,
+        "Water shutoff valves exercised (closed and reopened) at least annually?": null,
+        "Staff qualified to respond and shut off the water main during normal business hours and off hours?": null
+      },
+      "Automatic Water Shutoff Devices": {
+        "For domestic water lines, is there a water flow detection, notification and automatic shutoff?": null
+      },
+      "Unused/Vacant Spaces": {
+        "Does Applicant have a formal process to turn off and drain domestic water lines for these spaces?": null
+      },
+      "Seasonal Occupancies ONLY": {
+        "Is there a full-time caretaker/maintenance personnel on the premise?": null,
+        "Required duties of the caretaker (if yes)": {
+          "Regular walkthroughs of the building": false,
+          "How often each day": null,
+          "Trained in the location(s) of water shut off valve(s)": false,
+          "Inspects taps and leaves them dripping in freeze weather events": false,
+          "Shuts off or drains pipes during freezing temperatures": false,
+          "Monitors building temperatures ensuring heat is maintained at required levels": false,
+          "Responds to power outages": false,
+          "List of required procedures": null
+        },
+        "If no caretaker is present, has the building been properly winterized?": null
+      }
+    },
+    "Staff & Children Info": {
+      "Staff to Children Ratio": {
+        "Infants, ages 0 – 1": {
+          "Number of Children": null,
+          "Average Daily Attendance": null,
+          "Number of Teachers": null
+        },
+        "Toddlers, ages 1 – 2": {
+          "Number of Children": null,
+          "Average Daily Attendance": null,
+          "Number of Teachers": null
+        },
+        "Toddlers, ages 2 – 3": {
+          "Number of Children": null,
+          "Average Daily Attendance": null,
+          "Number of Teachers": null
+        },
+        "Preschoolers, ages 3 – 5": {
+          "Number of Children": null,
+          "Average Daily Attendance": null,
+          "Number of Teachers": null
+        },
+        "School Age Children": {
+          "Number of Children": null,
+          "Average Daily Attendance": null,
+          "Number of Teachers": null
+        }
+      },
+      "Are children allowed to use the restroom without a teacher present?": null,
+      "Number of children allowed in restroom at one time (if yes)": null,
+      "Is a minimum of one staff member certified in first aid present at all times?": null,
+      "Optional: Male Staff Details": {
+        "Length of employment": null,
+        "Any one-on-one activities?": null,
+        "Duties performed, including age groups": null
+      }
+    },
+    "Health & Safety": {
+      "Child Records Maintained": {
+        "Immunization records updated annually?": null,
+        "Records for each child indicating unusual conditions?": null,
+        "Signed releases for emergency medical treatment/dispensing of medication obtained from parents?": null,
+        "Written instructions from child’s physician for dispensing of child’s medication?": null
+      },
+      "Is food properly covered, stored and served according to government requirements?": null,
+      "Does the Applicant have an accident/health policy?": null,
+      "Is coverage mandatory for all children?": null,
+      "Accident/Health Policy Carrier limits of liability": null,
+      "Accident/Health Policy term": null,
+      "Does the Applicant require evidence of personal medical insurance for all children?": null,
+      "Does the Applicant have a written emergency evacuation plan in effect?": null,
+      "Daily check-in and release procedures": null,
+      "Are any pets or animals kept on premises?": null,
+      "Description of animals, caging, and type of interaction": null,
+      "Security": {
+        "Are any of the Applicant’s locations protected by security personnel?": null,
+        "Security personnel type (if yes)": {
+          "Sub-contracted": null,
+          "Employed": null,
+          "Other": null
+        },
+        "Does the Applicant’s state permit open and/or concealed carry of weapons on your premises?": null,
+        "Does the Applicant have a written policy permitting open and/or concealed carry of firearms on any premises?": null,
+        "Who is granted permission to carry firearms (if permitted)": {
+          "Staff": null,
+          "Guests": null
+        },
+        "If firearms are not permitted, do all locations have Gun Free Zone signage?": null
+      },
+      "Automobile": {
+        "N/A": false,
+        "Does the Applicant provide regular transportation for children?": null,
+        "Maximum distance (miles)": null,
+        "Minimum age for transportation": null,
+        "Is a walk-around vehicle checklist used prior to transporting children?": null,
+        "Are all drivers put through specialized drivers training in transporting children?": null,
+        "How are children accounted for getting on and off the bus": null,
+        "How often do employees or volunteers drive their own vehicles for transporting children": null,
+        "Does the Applicant require evidence that they have their own auto insurance?": null,
+        "Auto insurance limit required (if yes)": null,
+        "Does the Applicant’s organization utilize GPS fleet telematics devices?": null,
+        "Fleet telematics utilized (if yes)": {
+          "Plug in": false,
+          "Hard wired": false,
+          "Mobile Phone": false,
+          "Other": null
+        },
+        "Percentage of fleet with telematics devices": null,
+        "Does the Applicant have a formal driving policy in place with MVR standards?": null,
+        "Driving policy communicated in writing to all employees?": null,
+        "Signed acknowledgement form kept on file?": null,
+        "Driving standards include (if yes)": {
+          "No major violations (DUI, racing, hit and run, speeding > 20 mph over limit, manslaughter)?": null,
+          "No more than 2 moving violations within past 3 years?": null,
+          "No more than 1 at fault accident within past 3 years?": null
+        },
+        "How often does the Applicant check MVR reports?": null,
+        "Ongoing training provided to drivers": null,
+        "Does the Applicant allow employees to drive personal vehicles for company purposes?": null,
+        "Driving policy and standards for personal vehicles same as questions 9 & 10?": null,
+        "Does the Applicant require these employees to have adequate personal insurance limits?": null
+      },
+      "Special Activities": {
+        "Play Area": {
+          "Is the area fenced?": null,
+          "Are any trampolines and inflatables present?": null,
+          "Describe playground surface": null
+        },
+        "Field Trips and Off Premises Travel": {
+          "How many field trips are taken per year": null,
+          "Describe the field trips": null,
+          "Are parental waivers obtained?": null,
+          "Minimum age taken on trips": null,
+          "How are children transported": {
+            "Child Care Vehicle": false,
+            "Parent": false,
+            "Other": null
+          }
+        },
+        "Activities": {
+          "Are special classes provided?": {
+            "Gymnastics": false,
+            "Dance": false,
+            "Karate": false,
+            "Tumbling": false,
+            "Birthday Parties": {
+              "Checked": false,
+              "Number of children": null
+            },
+            "Other": null,
+            "Explanation": null
+          },
+          "Are special classes taught by an independent contractor on your premises?": null,
+          "Does the Applicant request/maintain Certificates of Insurance from all sub-contractors?": null
+        },
+        "Summer Camp": {
+          "Number of children (other than children in childcare program)": null,
+          "Ages": null,
+          "Number of weeks attending": null,
+          "Number of additional staff": null,
+          "Describe outings away from camp location": null
+        },
+        "Swimming Pools": {
+          "Does the Applicant now use or plan in the future to use swimming facilities?": null,
+          "Pool location": {
+            "On Applicant’s premises": false,
+            "At a separate location": false
+          },
+          "Are all swimming pools and spas compliant with Virginia Graeme Baker Pool and Spa Safety Act?": null,
+          "Are water depths marked?": null,
+          "Maximum depth (feet)": null,
+          "Is there a diving board?": null,
+          "Is there a slide into the pool?": null,
+          "Is the pool area completely fenced?": null,
+          "Are lifeguards present?": null,
+          "Is there a self-locking gate?": null,
+          "Ratio of staff to child when at pools": {
+            "Staff": null,
+            "Children": null
+          },
+          "Minimum age of children allowed in the water": null,
+          "Walking surface in good shape and non-slip?": null
+        }
+      }
+    },
+    "Sexual Abuse Policy": {
+      "Employment process includes conviction verification (sex/child abuse offenses) before offer?": null,
+      "New staff orientation discusses child/sexual abuse, signs, and reporting?": null,
+      "National criminal background investigations and sex offender register check completed on all:": {
+        "Employees": null,
+        "Volunteers": null,
+        "Independent contractors": null
+      },
+      "How long has the Applicant been performing these checks (years)": null,
+      "How many years does the Applicant keep these records on file after employee leaves": null,
+      "Does the Applicant verify employment-related references?": null,
+      "Does the Applicant conduct a personal interview?": null,
+      "Does the Applicant’s supervision plan monitor staff in day-to-day relationships with children both on and off premises?": null,
+      "How is the staff monitored?": {
+        "Video": false,
+        "Windows": false,
+        "Other": null
+      },
+      "Are there operable surveillance cameras in all classrooms and inside play areas?": null,
+      "Is the video saved (if cameras present)?": null,
+      "How long is video saved (if yes)": null,
+      "Does the Applicant contract with any vendors who have contact with any children in your care?": null,
+      "Explanation for vendor contact (if yes)": null,
+      "Are there any other circumstances where adults, who are not the Applicant’s employees, have access to any child in your care?": null,
+      "Explanation for other adult access (if yes)": null,
+      "Does the Applicant have written procedures for dealing with sexual abuse?": null,
+      "Has the Applicant ever had an incident which resulted in an allegation of sexual abuse?": null,
+      "If yes (sexual abuse incident)": {
+        "Was a claim made against the organization?": null,
+        "Is that individual still employed with your organization?": null,
+        "What changes were made to prevent recurrence?": null
+      }
+    },
+    "Business Income": {
+      "Business Incomes exposures from the following sources": {
+        "Total Annual Tuitions": null,
+        "Ordinary Payroll Expense": null,
+        "Continuing Expenses": null
+      },
+      "Total B/I Exposure for 12 months": null,
+      "Less Cost of": {
+        "If excluding or limiting “Ordinary Payroll”, deduct all “Ordinary Payroll” Expenses": null,
+        "Other Non-continuing Expenses (describe)": null
+      },
+      "Total Deductions": null,
+      "Total Business Income Value": null,
+      "Extra Expense (if requested)": {
+        "Method 1: 25% of Total Revenue": null,
+        "Method 2: Calculation by Category": {
+          "Rental for temporary Child Care location": null,
+          "Moving Expenses": null,
+          "Overtime / Other Extra Expense": null,
+          "Other": null
+        },
+        "Total Gross Extra Expense": null,
+        "Deduct expenses discontinued at original location because of loss": null,
+        "Net Extra Expense": null
+      },
+      "TOTAL INSURABLE BUSINESS INCOME / EXTRA EXPENSE (Agreed Amount)": null,
+      "Ordinary Payroll considerations": {
+        "Would you lay off all your other employees in the event of a short interruption?": null,
+        "Layoff explanation": null,
+        "Could you get them back when operations are restored or would they have gone elsewhere?": null,
+        "Restoration explanation": null
+      }
+    },
+    "Cybersecurity": {
+      "Name of Applicant": null,
+      "Address of Applicant": null,
+      "City": null,
+      "State": null,
+      "Zip": null,
+      "Website": null,
+      "Nature of Operations": null,
+      "Annual sales or revenue": null,
+      "Does the Applicant collect, store or otherwise handle any Personally Identifiable Information (PII) belonging to customers, clients, or other third parties, other than employees?": null,
+      "Types of Personally Identifiable Information held (if yes)": {
+        "Social Security Numbers, Bank or Other Financial Account Details, Driver’s License or other State Identification Numbers": false,
+        "Non-public Medical or Healthcare Data, including Protected Health Information (PHI)": false,
+        "Credit or Debit Card Information": false
+      },
+      "During the last three (3) years, has anyone alleged that the Applicant was responsible for damage to their computer system(s) arising out of the operation of the Applicant’s computer system(s)?": null,
+      "During the last three (3) years, has anyone made a demand, claim, complaint, or filed a lawsuit against the Applicant alleging invasion or interference of rights of privacy or the inappropriate disclosure of Personally Identifiable Information (PII)?": null,
+      "During the last three (3) years, has the Applicant been the subject of an investigation or action by any regulatory or administrative agency for privacy-related violations?": null,
+      "Is the Applicant aware of any circumstance that could reasonably be anticipated to result in a claim being made against them for the coverage being applied for?": null
+    },
+    "Signature Section": {
+      "Applicant Signature": {
+        "NAME (PLEASE PRINT/TYPE)": null,
+        "TITLE": null,
+        "SIGNATURE": null,
+        "DATE": null
+      },
+      "Producer/Broker/Agent Section": {
+        "PRODUCER": null,
+        "AGENCY": null,
+        "PRODUCER LICENSE NUMBER": null,
+        "ADDRESS (STREET, CITY, STATE, ZIP)": null
+      }
+    }
+  }
+}
