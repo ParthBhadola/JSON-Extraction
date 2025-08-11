@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+pymupdf
+langchain_google_genai 
+python-multipart   # for file uploads
